@@ -1,4 +1,4 @@
-package poly;
+package poly.basic;
 
 // Pattern Matching for instanceof
 public class CastingMain6 {

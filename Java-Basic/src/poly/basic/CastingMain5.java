@@ -1,4 +1,4 @@
-package poly;
+package poly.basic;
 
 public class CastingMain5 {
     public static void main(String[] args) {
